@@ -98,6 +98,7 @@ A correção qualitativa será durante a entrevista e levará em conta os seguin
 - Cuidado com itens de segurança
 - Arquitetura (estruturar o pensamento antes de escrever)
 - Carinho em desacoplar componentes (outras camadas, service, repository)
+- ~~Conhecimento de padrões (PSRs, design patterns, SOLID)~~
 
 De acordo com os critérios acima, iremos avaliar seu teste para avançarmos para a entrevista técnica.
 Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremos prosseguir com o processo.
@@ -114,7 +115,6 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 - Uso de Design Patterns
 - Documentação
 - Proposta de melhoria na arquitetura
-- Conhecimento de padrões (PSRs, design patterns, SOLID)
 
 
 ## Materiais úteis
