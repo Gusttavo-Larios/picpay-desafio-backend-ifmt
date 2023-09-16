@@ -10,7 +10,7 @@ Abaixo você encontrará todos as informações necessárias para iniciar o seu 
 - Envie o link do seu repositório para o email **do recrutador responsável**.
 - Você poderá consultar o Google, Stackoverflow ou algum projeto particular na sua máquina.
 - Dê uma olhada nos [Materiais úteis](#materiais-úteis).
-- Dê uma olhada em como será a [entrevista](#para-o-dia-da-entrevista-técnica).
+- Dê uma olhada em como será a [entrevista](#para-o-dia-da-entrevista-técnica).  
 - Fique à vontade para perguntar qualquer dúvida aos recrutadores.
 - Fique tranquilo, respire, assim como você, também já passamos por essa etapa. Boa sorte! :)
 
@@ -82,10 +82,7 @@ Atente-se a cumprir a maioria dos requisitos, pois você pode cumprir-los parcia
 
 Teremos 2 partes da avaliação:
 
-A correção objetiva será realizada através da utilização de um script de correção automatizada. Você **pode** rodar na sua máquina local ou usar outra ferramenta:
-```
-docker run -it --rm -v $(pwd):/project -w /project jakzal/phpqa phpmd app text cleancode,codesize,controversial,design,naming,unusedcode
-```    
+~~A correção objetiva será realizada através da utilização de um script de correção automatizada. Você **pode** rodar na sua máquina local ou usar outra ferramenta:~~   
 
 A correção qualitativa será durante a entrevista e levará em conta os seguintes critérios:
 
@@ -93,7 +90,6 @@ A correção qualitativa será durante a entrevista e levará em conta os seguin
 - Documentação
 - Se for para vaga sênior, foque bastante no **desenho de arquitetura**
 - Código limpo e organizado (nomenclatura, etc)
-- Conhecimento de padrões (PSRs, design patterns, SOLID)
 - Ser consistente e saber argumentar suas escolhas
 - Apresentar soluções que domina
 - Modelagem de Dados
@@ -118,6 +114,7 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 - Uso de Design Patterns
 - Documentação
 - Proposta de melhoria na arquitetura
+- Conhecimento de padrões (PSRs, design patterns, SOLID)
 
 
 ## Materiais úteis
