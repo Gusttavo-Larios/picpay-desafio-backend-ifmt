@@ -110,8 +110,8 @@ Caso não tenha atingido aceitavelmente o que estamos propondo acima, não iremo
 
 ## O que será um Diferencial
 - Uso de Docker
-- Testes de [integração](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
-- Testes [unitários](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)
+- ~~Testes de [integração](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)~~
+- ~~Testes [unitários](https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing)~~
 - Uso de Design Patterns
 - Documentação
 - Proposta de melhoria na arquitetura
